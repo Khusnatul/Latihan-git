@@ -1,0 +1,4 @@
+File pertama uji coba GitHub.
+- Membuat akun github.
+- Mengetahui komen dasar pada git.
+- Integrasi Git
